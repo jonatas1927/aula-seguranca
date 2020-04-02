@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "usuario": "jonatas",
+            "alg": "sha1",
+            "salt": "2020-04-02T00:10:22.364Z",
+            "hash": "abf47f13f365f504638303c1213031bc51e793f5"
+        },
+        {
+            "usuario": "jonatas",
+            "alg": "sha1",
+            "salt": "2020-04-02T00:10:36.208Z",
+            "hash": "abf47f13f365f504638303c1213031bc51e793f5"
+        }
+    ]
+}
