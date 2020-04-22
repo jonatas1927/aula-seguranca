@@ -2,15 +2,11 @@
     "usuarios": [
         {
             "usuario": "jonatas",
-            "alg": "sha1",
-            "salt": "2020-04-02T00:10:22.364Z",
-            "hash": "abf47f13f365f504638303c1213031bc51e793f5"
-        },
-        {
-            "usuario": "jonatas",
-            "alg": "sha1",
-            "salt": "2020-04-02T00:10:36.208Z",
-            "hash": "abf47f13f365f504638303c1213031bc51e793f5"
+            "alg": "bcrypt",
+            "salt": "$2b$15$ikSRI5IfWfCIPqmAJih.o.",
+            "hash": "$2b$15$ikSRI5IfWfCIPqmAJih.o.yn4Uh2b1ElmTq8w1.jxfWeHYMP1BBse",
+            "rodadas": 15,
+            "tempo": 2.174
         }
     ]
 }

@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^4.0.1",
     "command-line-args": "^5.1.1",
     "crypto-js": "^4.0.0",
     "minimist": "^1.2.5"
